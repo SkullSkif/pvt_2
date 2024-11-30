@@ -1,0 +1,20 @@
+
+DGEMV: matrix-vector product (c[m] = a[m, n] * b[n]; m = 28000, n = 28000)
+Memory used: 2990 MiB
+Elapsed time (8 procs): 3.232871 sec.
+Performance: 0.49 GFLOPS
+
+DGEMV: matrix-vector product (c[m] = a[m, n] * b[n]; m = 28000, n = 28000)
+Memory used: 2990 MiB
+Elapsed time (16 procs): 3.045506 sec.
+Performance: 0.51 GFLOPS
+
+DGEMV: matrix-vector product (c[m] = a[m, n] * b[n]; m = 28000, n = 28000)
+Memory used: 2990 MiB
+Elapsed time (32 procs): 2.966389 sec.
+Performance: 0.53 GFLOPS
+
+DGEMV: matrix-vector product (c[m] = a[m, n] * b[n]; m = 28000, n = 28000)
+Memory used: 2990 MiB
+Elapsed time (64 procs): 2.945341 sec.
+Performance: 0.53 GFLOPS
